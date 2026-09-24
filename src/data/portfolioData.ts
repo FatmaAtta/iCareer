@@ -13,8 +13,8 @@ export const personalInfo = {
   gpa: '3.67',
   githubUrl: 'https://github.com/FatmaAtta',
   linkedinUrl: 'https://www.linkedin.com/in/fatmaatta/',
-  resumeUrl: '/Fatma_Atta_Resume.pdf',
-  photoUrl: '/fatma-atta.jpg',
+  resumeUrl: './Fatma_Atta_Resume.pdf',
+  photoUrl: './fatma-atta.jpg',
   aboutBio: `I am a Computer Science graduate from Cairo University (Faculty of Computers and Artificial Intelligence) with practical software engineering experience across AI/ML, full-stack web, and mobile app development.
 
 My work spans from engineering end-to-end intelligent systems—such as building an AI-powered pipeline to transcribe, diarize, and analyze sentiment in Egyptian Arabic customer-service calls—to developing cross-platform mobile apps with Kotlin, Jetpack Compose, and Flutter, and scalable web solutions using React and Django.
